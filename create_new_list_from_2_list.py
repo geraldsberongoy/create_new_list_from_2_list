@@ -31,5 +31,5 @@ for i in list2:
 
 # Print lists   
 print(f"The first list: {list1}")
-print(f"The first list: {list2}")
+print(f"The second list: {list2}")
 print(f"Result list: {result_list}")
