@@ -29,7 +29,7 @@ for i in list2:
     if i % 2 == 0:
         result_list.append(i)
 
-# Print lists
+# Print lists   
 print(f"The first list: {list1}")
 print(f"The first list: {list2}")
 print(f"Result list: {result_list}")
