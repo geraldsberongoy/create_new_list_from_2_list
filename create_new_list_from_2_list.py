@@ -13,3 +13,10 @@
 # for loop with nested conditional to add the odd first list in result list
 # another for loop with nested conditional to add the even second list in result list
 # print result list
+
+# # # CODE # # #
+
+# Given List
+list1 = [10, 20, 25, 30, 35]
+list2 = [40, 45, 60, 75, 90]
+result_list = []
