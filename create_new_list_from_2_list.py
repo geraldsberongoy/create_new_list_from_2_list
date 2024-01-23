@@ -28,3 +28,7 @@ for i in list1:
 for i in list2:
     if i % 2 == 0:
         result_list.append(i)
+
+print(f"The first list: {list1}")
+print(f"The first list: {list2}")
+print(f"Result list: {result_list}")
